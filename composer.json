@@ -1,0 +1,6 @@
+{
+    "name": "dev/fbconnect",
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    }
+}
